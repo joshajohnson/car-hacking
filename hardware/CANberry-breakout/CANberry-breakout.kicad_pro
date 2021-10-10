@@ -365,7 +365,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CANberry.kicad_pro",
+    "filename": "CANberry-breakout.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -397,12 +397,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Power",
-        "nets": [
-          "+3V3",
-          "GND",
-          "GNDD",
-          "VBUS"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
@@ -422,7 +417,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "canberry.step",
+      "step": "entropy0.3w.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
